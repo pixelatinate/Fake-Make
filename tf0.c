@@ -2,5 +2,5 @@
 
 void first()
 {
-  printf("Baby, give me it.\n");
+  printf("I can't wait, I need a hit.\n");
 }

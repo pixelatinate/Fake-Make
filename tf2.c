@@ -2,5 +2,5 @@
 
 void third()
 {
-  printf("I can't wait, I need a hit.\n");
+  printf("I'm on a ride.\n");
 }

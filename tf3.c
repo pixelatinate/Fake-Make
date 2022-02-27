@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "s1_header.h"
 
 void fourth()
 {
-  printf("I'm on a ride.\n");
+  printf("%s\n", s1);
 }

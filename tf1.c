@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include "s1_header.h"
 
 void second()
 {
-  printf("%s\n", s1);
+  printf("Baby, give me it.\n");
 }
